@@ -6,7 +6,8 @@
     padding: 0px;
     box-sizing: border-box;
 }
-marquee{
+
+marquee {
     background-color: black;
     color: #fff;
     font-size: 18px;
@@ -500,7 +501,6 @@ footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr;
-        /* gap: 10px 19px; */
     }
 
     #footer {
